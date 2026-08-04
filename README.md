@@ -19,12 +19,13 @@
       <h2>Sidharth P V</h2>
       <p><b>Final Year CSE Student</b></p>
       <hr />
-      <p> <b>Location</b> &nbsp;&nbsp;: <ins>India</ins></p>
-<p> <b>Focus</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <ins>Artificial Intelligence, Cybersecurity, Fullstack Development</ins></p>
-<p> <b>Learning</b> &nbsp;&nbsp;: <ins>ML, Computer Vision, LLMs</ins></p>
-<p> <b>Building</b> &nbsp;&nbsp;: <ins>Something Unique</ins></p>
-<p> <b>Interests</b> &nbsp;: <ins>Entrepreneurship, AI Research, Problem Solving, Ethical Hacking</ins></p>
-<p> <b>Goal</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <ins>Building impactful products that make a difference</ins></p>
+ <p> <b>Location</b> &nbsp;&nbsp;: <img src="https://img.shields.io/badge/India-22c55e?style=flat-square&labelColor=0d1117&color=22c55e" align="center" /></p>
+<p> <b>Focus</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <img src="https://img.shields.io/badge/Artificial_Intelligence%2C_Cybersecurity%2C_Fullstack-22c55e?style=flat-square&labelColor=0d1117&color=22c55e" align="center" /></p>
+<p> <b>Learning</b> &nbsp;&nbsp;: <img src="https://img.shields.io/badge/ML%2C_Computer_Vision%2C_LLMs-22c55e?style=flat-square&labelColor=0d1117&color=22c55e" align="center" /></p>
+<p> <b>Building</b> &nbsp;&nbsp;: <img src="https://img.shields.io/badge/Something_Unique-22c55e?style=flat-square&labelColor=0d1117&color=22c55e" align="center" /></p>
+<p> <b>Interests</b> &nbsp;: <img src="https://img.shields.io/badge/Entrepreneurship%2C_AI_Research%2C_Ethical_Hacking-22c55e?style=flat-square&labelColor=0d1117&color=22c55e" align="center" /></p>
+<p> <b>Goal</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <img src="https://img.shields.io/badge/Building_impactful_products_that_make_a_difference-22c55e?style=flat-square&labelColor=0d1117&color=22c55e" align="center" /></p>
+<hr />
 <hr />
       <p><code>> life.exe --mission "learn • build • impact"</code></p>
     </td>

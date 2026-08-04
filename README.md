@@ -19,12 +19,13 @@
       <h2>Sidharth P V</h2>
       <p><b>Final Year CSE Student</b></p>
       <hr />
- <p> <b>Location</b> &nbsp;&nbsp;: <img src="https://img.shields.io/badge/India-22c55e?style=flat-square&labelColor=0d1117&color=22c55e" align="center" /></p>
-<p> <b>Focus</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <img src="https://img.shields.io/badge/Artificial_Intelligence%2C_Cybersecurity%2C_Fullstack-22c55e?style=flat-square&labelColor=0d1117&color=22c55e" align="center" /></p>
-<p> <b>Learning</b> &nbsp;&nbsp;: <img src="https://img.shields.io/badge/ML%2C_Computer_Vision%2C_LLMs-22c55e?style=flat-square&labelColor=0d1117&color=22c55e" align="center" /></p>
-<p> <b>Building</b> &nbsp;&nbsp;: <img src="https://img.shields.io/badge/Something_Unique-22c55e?style=flat-square&labelColor=0d1117&color=22c55e" align="center" /></p>
-<p> <b>Interests</b> &nbsp;: <img src="https://img.shields.io/badge/Entrepreneurship%2C_AI_Research%2C_Ethical_Hacking-22c55e?style=flat-square&labelColor=0d1117&color=22c55e" align="center" /></p>
-<p> <b>Goal</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <img src="https://img.shields.io/badge/Building_impactful_products_that_make_a_difference-22c55e?style=flat-square&labelColor=0d1117&color=22c55e" align="center" /></p>
+ <p><b>Location</b> &nbsp;&nbsp;: <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000000&color=22C55E&background=0D111700&width=400&height=20&lines=India" align="center" alt="India" /></p>
+<p><b>Focus</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000000&color=22C55E&background=0D111700&width=500&height=20&lines=Artificial+Intelligence%2C+Cybersecurity%2C+Fullstack" align="center" alt="Focus" /></p>
+<p><b>Learning</b> &nbsp;&nbsp;: <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000000&color=22C55E&background=0D111700&width=400&height=20&lines=ML%2C+Computer+Vision%2C+LLMs" align="center" alt="Learning" /></p>
+<p><b>Building</b> &nbsp;&nbsp;: <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000000&color=22C55E&background=0D111700&width=400&height=20&lines=Something+Unique" align="center" alt="Building" /></p>
+<p><b>Interests</b> &nbsp;: <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000000&color=22C55E&background=0D111700&width=550&height=20&lines=Entrepreneurship%2C+AI+Research%2C+Ethical+Hacking" align="center" alt="Interests" /></p>
+<p><b>Goal</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000000&color=22C55E&background=0D111700&width=550&height=20&lines=Building+impactful+products+that+make+a+difference" align="center" alt="Goal" /></p>
+<hr />
 <hr />
 <hr />
       <p><code>> life.exe --mission "learn • build • impact"</code></p>

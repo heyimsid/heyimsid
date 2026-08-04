@@ -31,11 +31,11 @@
   </tr>
 </table>
 
-<!-- MIDDLE CONTAINER: CONTRIBUTION GRID -->
+<!-- MIDDLE CONTAINER: ACTIVITY GRAPH (BLACK & GREEN) -->
 <br />
 <div align="center">
-  <p align="left"><code>> git log ---oneline ---graph --all ---since=53.weeks</code></p>
-  <img src="https://ghchart.rshah.org/22c55e/heyimsid" width="100%" alt="Contribution Box Grid" />
+  <p align="left"><code>> git log --oneline --graph --all --since=53.weeks</code></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heyimsid&bg_color=0d1117&color=00ff66&line=00ff66&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 <br />
 

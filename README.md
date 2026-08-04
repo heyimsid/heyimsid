@@ -19,13 +19,13 @@
       <h2>Sidharth P V</h2>
       <p><b>Final Year CSE Student</b></p>
       <hr />
-      <p> <b>Location</b> &nbsp;&nbsp;: India</p>
-      <p> <b>Focus</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Artificial Intelligence, Cybersecurity,Fullstack Development</p>
-      <p> <b>Learning</b> &nbsp;&nbsp;: ML, Computer Vision, LLMs</p>
-      <p><b>Building</b> &nbsp;&nbsp;: Something Unique</p>
-      <p><b>Interests</b> &nbsp;: Entrepreneurship ,AI Research, Problem Solving,Ethical Hacking</p>
-      <p> <b>Goal</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Building impactful things products that make a difference</p>
-      <hr />
+      <p> <b>Location</b> &nbsp;&nbsp;: <ins>India</ins></p>
+<p> <b>Focus</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <ins>Artificial Intelligence, Cybersecurity, Fullstack Development</ins></p>
+<p> <b>Learning</b> &nbsp;&nbsp;: <ins>ML, Computer Vision, LLMs</ins></p>
+<p> <b>Building</b> &nbsp;&nbsp;: <ins>Something Unique</ins></p>
+<p> <b>Interests</b> &nbsp;: <ins>Entrepreneurship, AI Research, Problem Solving, Ethical Hacking</ins></p>
+<p> <b>Goal</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <ins>Building impactful products that make a difference</ins></p>
+<hr />
       <p><code>> life.exe --mission "learn • build • impact"</code></p>
     </td>
   </tr>

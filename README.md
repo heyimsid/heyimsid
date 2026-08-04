@@ -31,19 +31,12 @@
   </tr>
 </table>
 
-<!-- MIDDLE CONTAINER: CONTRIBUTION GRAPH -->
+<!-- MIDDLE CONTAINER: CONTRIBUTION GRID -->
 <br />
-<table width="100%">
-  <tr>
-    <td width="100%">
-      <p><code>> git log ---oneline ---graph --all ---since=53.weeks</code></p>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=heyimsid&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <p align="left"><code>> git log ---oneline ---graph --all ---since=53.weeks</code></p>
+  <img src="https://ghchart.rshah.org/22c55e/heyimsid" width="100%" alt="Contribution Box Grid" />
 </div>
-
 <br />
 
 <!-- BOTTOM CONTAINER: PURE MARKDOWN TABLE FOR STACK & PROJECTS -->

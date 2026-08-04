@@ -3,11 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=sidharth@heyimsid:~&fontSize=20&fontColor=8b949e&animation=twinkle" width="100%" />
 </div>
 
-<!-- TOP CARDS: PROFILE & ASCII PORTRAIT -->
-<table>
+<table border="0">
   <tr>
-    <td width="45%" valign="top" align="center">
-      <br />
+    <td width="45%" valign="top">
+
+
       <!-- ASCII Portrait rendered in codeblock -->
       <pre align="left">
 > loading profile...

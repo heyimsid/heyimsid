@@ -9,6 +9,7 @@
       <p align="center">
         <sub><code>— ascii portrait v1.0 —</code></sub>
       </p>
+      <img src="assets/logoascii.svg" width="100%" alt="GT3 RS ASCII Logo" />
     </td>
     <td width="58%" valign="top">
       <br />

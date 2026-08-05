@@ -45,7 +45,11 @@
 <!-- MIDDLE CONTAINER: PAC-MAN GRID -->
 <br />
 <div align="center">
-  <img src="https://raw.githubusercontent.com/heyimsid/heyimsid/output/github-contribution-grid-snake.svg" width="100%" alt="Pacman Contribution Grid" />
+ <picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heyimsid/heyimsid/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heyimsid/heyimsid/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/heyimsid/heyimsid/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 </div>
 <br />
 

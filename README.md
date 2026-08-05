@@ -14,13 +14,16 @@
     <td width="58%" valign="top">
       <br />
       <div align="right">
-  <table style="display: inline-block;">
-    <tr>
-      <td style="background-color: rgba(34, 197, 94, 0.1); border: 1px solid rgba(34, 197, 94, 0.3); border-radius: 6px; padding: 3px 10px;">
-        <code style="color: #22C55E; background: transparent; font-weight: bold;">ALWAYS LEARNING</code>
-      </td>
-    </tr>
-  </table>
+  <svg height="26" width="165" xmlns="http://www.w3.org/2000/svg">
+    <!-- Transparent Green Background & Border -->
+    <rect width="165" height="26" rx="6" fill="#22C55E" fill-opacity="0.12" stroke="#22C55E" stroke-width="1" stroke-opacity="0.35"/>
+    
+    <!-- Status Green Dot -->
+    <circle cx="16" cy="13" r="3.5" fill="#22C55E"/>
+    
+    <!-- Text -->
+    <text x="30" y="17" fill="#22C55E" font-family="'JetBrains Mono', 'Cascadia Code', monospace" font-size="10" font-weight="700" letter-spacing="1">ALWAYS LEARNING</text>
+  </svg>
 </div>
       <p><code>> whoami</code></p>
       <h2>Sidharth P V</h2>

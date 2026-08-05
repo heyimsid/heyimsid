@@ -14,10 +14,13 @@
     <td width="58%" valign="top">
       <br />
       <div align="right">
-  <svg height="22" width="150" xmlns="http://www.w3.org/2000/svg">
-    <rect width="150" height="22" rx="4" fill="#22C55E" fill-opacity="0.15" stroke="#22C55E" stroke-width="1" stroke-opacity="0.4"/>
-    <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" fill="#22C55E" font-family="'JetBrains Mono', 'Cascadia Code', monospace" font-size="10" font-weight="700" letter-spacing="1.5">ALWAYS LEARNING</text>
-  </svg>
+  <table style="display: inline-block;">
+    <tr>
+      <td style="background-color: rgba(34, 197, 94, 0.1); border: 1px solid rgba(34, 197, 94, 0.3); border-radius: 6px; padding: 3px 10px;">
+        <code style="color: #22C55E; background: transparent; font-weight: bold;">ALWAYS LEARNING</code>
+      </td>
+    </tr>
+  </table>
 </div>
       <p><code>> whoami</code></p>
       <h2>Sidharth P V</h2>

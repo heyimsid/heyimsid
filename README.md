@@ -33,17 +33,11 @@
   </tr>
 </table>
 
-<!-- MIDDLE CONTAINER: SYNTHWAVE RACER BANNER -->
+<!-- MIDDLE CONTAINER: 3D ISOMETRIC CITY GRID -->
 <br />
 <div align="center">
-  <p align="left"><code>> ./drive_contributions.sh --vehicle=f40_synthwave --status=active</code></p>
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR5bzVsZjlnNmx1M3lhbjJia3B4aDdqbmlyMmV4Nm8ydmIxaGExbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L13y0z1z1B7VnJbL4f/giphy.gif" width="100%" alt="Synthwave Driving Grid" />
-  
-  <br /><br />
-  
-  <!-- REAL CONTRIBUTION CHART DIRECTLY BELOW -->
-  <img src="https://ghchart.rshah.org/22c55e/heyimsid?bg_color=0d1117" width="100%" alt="Contribution Grid" />
+  <p align="left"><code>> ./render_city.sh --perspective=3d_isometric</code></p>
+  <img src="https://github-readme-3d-contrib.vercel.app/api?username=heyimsid&theme=dark" width="100%" alt="3D Contribution Graph" />
 </div>
 <br />
 

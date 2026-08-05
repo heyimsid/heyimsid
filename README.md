@@ -42,7 +42,7 @@
 <p align="left"><code>> ./drive_contributions.sh --garage=topmodels --speed=max</code></p>
 
   <!-- Pixel car sprite centered and sized down -->
-  <img src="./assets/car.gif" width="180" alt="Pixel Car" />
+  <img src="./assets/carss.gif" width="500" alt="Pixel Car" />
 
   <p align="left"><code>> ./panzer --mode=shoot_box --user=heyimsid</code></p>
   

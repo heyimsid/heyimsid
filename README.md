@@ -45,8 +45,8 @@
   <!-- Asphalt/Track Line Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
   
-  <br />
-  <img src="https://ghchart.rshah.org/22c55e/heyimsid?bg_color=0d1117" width="100%" alt="Contribution Grid" />
+<!-- BLACK & GREEN CONTRIBUTION CHART -->
+  <img src="https://ghchart.rshah.org/22c55e/heyimsid?bg_color=000000" width="100%" alt="Contribution Grid" />
 </div>
 <br />
 

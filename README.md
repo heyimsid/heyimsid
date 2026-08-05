@@ -13,12 +13,8 @@
     </td>
     <td width="58%" valign="top">
       <br />
-      <div align="right">
-  <svg height="26" width="165" xmlns="http://www.w3.org/2000/svg">
-    <!-- Transparent Green Background & Border -->
-    <rect width="165" height="26" rx="6" fill="#22C55E" fill-opacity="0.12" stroke="#22C55E" stroke-width="1" stroke-opacity="0.35"/>
-  
-  </svg>
+<div align="right">
+  <img src="https://img.shields.io/badge/%E2%97%8F_ALWAYS_LEARNING-161b22?style=flat-square&labelColor=0d1117&color=22c55e" alt="Always Learning" />
 </div>
       <p><code>> whoami</code></p>
       <h2>Sidharth P V</h2>

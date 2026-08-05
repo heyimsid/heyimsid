@@ -14,8 +14,11 @@
     <td width="58%" valign="top">
       <br />
       <div align="right">
-        <code><mark>&nbsp;ALWAYS LEARNING&nbsp;</mark></code>
-      </div>
+  <svg height="22" width="150" xmlns="http://www.w3.org/2000/svg">
+    <rect width="150" height="22" rx="4" fill="#22C55E" fill-opacity="0.15" stroke="#22C55E" stroke-width="1" stroke-opacity="0.4"/>
+    <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" fill="#22C55E" font-family="'JetBrains Mono', 'Cascadia Code', monospace" font-size="10" font-weight="700" letter-spacing="1.5">ALWAYS LEARNING</text>
+  </svg>
+</div>
       <p><code>> whoami</code></p>
       <h2>Sidharth P V</h2>
       <p><b>Final Year CSE Student</b></p>
@@ -39,12 +42,12 @@
 <br />
 <div align="center">
 
-<p align="left"><code>> ./drive_contributions.sh --vehicle=ferrari --speed=max</code></p>
+<p align="left"><code>> ./drive_contributions.sh --garage=topmodels --speed=max</code></p>
 
   <!-- Pixel car sprite centered and sized down -->
   <img src="./assets/car.gif" width="180" alt="Pixel Car" />
 
-  <p align="left"><code>> ./pacman --mode=eat_dots --user=heyimsid</code></p>
+  <p align="left"><code>> ./panzer --mode=shoot_box --user=heyimsid</code></p>
   
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heyimsid/heyimsid/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">

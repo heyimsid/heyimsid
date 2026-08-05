@@ -45,7 +45,6 @@
 <!-- MIDDLE CONTAINER: PAC-MAN GRID -->
 <br />
 <div align="center">
-  <p align="left"><code>> ./pacman --mode=eat_dots --user=heyimsid</code></p>
   <img src="https://raw.githubusercontent.com/heyimsid/heyimsid/output/github-contribution-grid-snake.svg" width="100%" alt="Pacman Contribution Grid" />
 </div>
 <br />

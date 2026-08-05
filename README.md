@@ -62,10 +62,16 @@
 
 <br />
 
-<p align="center">
-  <em>"The best way to predict the future is to invent it."</em><br />
-  <sub>— Alan Kay</sub>
-</p>
+<div align="center">
+  <table width="80%">
+    <tr>
+      <td align="center" style="border: 1px solid #30363d; border-radius: 8px; padding: 12px; background-color: #0d1117;">
+        <em>"The best way to predict the future is to invent it."</em><br />
+        <sub><code>— Alan Kay</code></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 `> thanks for stopping by! have a great day! 👋`
 

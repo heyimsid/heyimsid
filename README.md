@@ -62,10 +62,10 @@
 
 <br />
 
-<div align="center">
-
-*“ The best way to predict the future is to invent it. ”*  
-<sub>— Alan Kay</sub>
+<p align="center">
+  <em>"The best way to predict the future is to invent it."</em><br />
+  <sub>— Alan Kay</sub>
+</p>
 
 `> thanks for stopping by! have a great day! 👋`
 

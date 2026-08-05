@@ -17,12 +17,7 @@
   <svg height="26" width="165" xmlns="http://www.w3.org/2000/svg">
     <!-- Transparent Green Background & Border -->
     <rect width="165" height="26" rx="6" fill="#22C55E" fill-opacity="0.12" stroke="#22C55E" stroke-width="1" stroke-opacity="0.35"/>
-    
-    <!-- Status Green Dot -->
-    <circle cx="16" cy="13" r="3.5" fill="#22C55E"/>
-    
-    <!-- Text -->
-    <text x="30" y="17" fill="#22C55E" font-family="'JetBrains Mono', 'Cascadia Code', monospace" font-size="10" font-weight="700" letter-spacing="1">ALWAYS LEARNING</text>
+  
   </svg>
 </div>
       <p><code>> whoami</code></p>

@@ -33,11 +33,11 @@
   </tr>
 </table>
 
-<!-- MIDDLE CONTAINER: ACTIVITY GRAPH (BLACK & GREEN) -->
+<!-- MIDDLE CONTAINER: CAR RACING CONTRIBUTION GRID -->
 <br />
 <div align="center">
-  <p align="left"><code>> git log --oneline --graph --all --since=53.weeks</code></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heyimsid&bg_color=0d1117&color=00ff66&line=00ff66&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <p align="left"><code>> ./drive_contributions.sh --vehicle=r34_skyline --track=2026_activity</code></p>
+  <img src="https://raw.githubusercontent.com/heyimsid/heyimsid/output/github-car-grid-dark.svg" width="100%" alt="Car Contribution Racing Grid" />
 </div>
 <br />
 

@@ -42,11 +42,11 @@
   <!-- Pixel car sprite centered and sized down -->
   <img src="./assets/car.gif" width="180" alt="Pixel Car" />
   
-  <!-- Asphalt/Track Line Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
-  
-<!-- BLACK & GREEN CONTRIBUTION CHART -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heyimsid&bg_color=000000&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+<!-- MIDDLE CONTAINER: PAC-MAN GRID -->
+<br />
+<div align="center">
+  <p align="left"><code>> ./pacman --mode=eat_dots --user=heyimsid</code></p>
+  <img src="https://raw.githubusercontent.com/heyimsid/heyimsid/output/github-contribution-grid-snake.svg" width="100%" alt="Pacman Contribution Grid" />
 </div>
 <br />
 

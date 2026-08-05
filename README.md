@@ -33,9 +33,16 @@
 
 </div>
 
+
 <!-- MIDDLE CONTAINER: PAC-MAN / GALAGA CONTRIBUTION GRID -->
 <br />
 <div align="center">
+
+<p align="left"><code>> ./drive_contributions.sh --vehicle=ferrari --speed=max</code></p>
+
+  <!-- Pixel car sprite centered and sized down -->
+  <img src="./assets/car.gif" width="180" alt="Pixel Car" />
+
   <p align="left"><code>> ./pacman --mode=eat_dots --user=heyimsid</code></p>
   
 <picture data-importer="pacman">

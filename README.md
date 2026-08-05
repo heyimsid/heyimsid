@@ -14,7 +14,7 @@
     <td width="58%" valign="top">
       <br />
 <div align="right">
-  <img src="https://img.shields.io/badge/%E2%97%8F_ALWAYS_LEARNING-161b22?style=flat-square&labelColor=0d1117&color=22c55e" alt="Always Learning" />
+  <img src="https://img.shields.io/badge/%E2%97%8F_ALWAYS_LEARNING-00000000?style=for-the-badge&labelColor=00000000&color=00000000&logoColor=22c55e" alt="ALWAYS LEARNING" style="border: 1px solid #22c55e;" />
 </div>
       <p><code>> whoami</code></p>
       <h2>Sidharth P V</h2>

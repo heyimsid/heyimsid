@@ -4,7 +4,7 @@ text {
   font-family: 'JetBrains Mono','Cascadia Code','Fira Code',monospace;
   font-size: 8px;
   font-weight: 700;
-  fill: #22C55E;
+  fill: #FF4D5A;
   white-space: pre;
 }
 

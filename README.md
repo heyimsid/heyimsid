@@ -34,10 +34,19 @@
 </table>
 
 <!-- MIDDLE CONTAINER: 3D ISOMETRIC CITY GRID -->
+<!-- MIDDLE CONTAINER: PIXEL TRACK -->
 <br />
 <div align="center">
-  <p align="left"><code>> ./render_city.sh --perspective=3d_isometric</code></p>
-  <img src="https://github-readme-3d-contrib.vercel.app/api?username=heyimsid&theme=dark" width="100%" alt="3D Contribution Graph" />
+  <p align="left"><code>> ./drive_contributions.sh --vehicle=r34_pixel --speed=max</code></p>
+
+  <!-- Pixel car sprite centered and sized down -->
+  <img src="./assets/car.gif" width="180" alt="Pixel Car" />
+  
+  <!-- Asphalt/Track Line Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
+  
+  <br />
+  <img src="https://ghchart.rshah.org/22c55e/heyimsid?bg_color=0d1117" width="100%" alt="Contribution Grid" />
 </div>
 <br />
 

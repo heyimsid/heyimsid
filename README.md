@@ -33,18 +33,17 @@
   </tr>
 </table>
 
-<!-- MIDDLE CONTAINER: CAR OVER CONTRIBUTION GRID -->
+<!-- MIDDLE CONTAINER: SYNTHWAVE RACER BANNER -->
 <br />
 <div align="center">
-  <p align="left"><code>> ./drive_contributions.sh --vehicle=ferrari_f40 --track=github_contributions</code></p>
-
-  <!-- Car driving above -->
-  <img src="./assets/car.gif" width="220" alt="Ferrari F40" />
+  <p align="left"><code>> ./drive_contributions.sh --vehicle=f40_synthwave --status=active</code></p>
   
-  <br />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR5bzVsZjlnNmx1M3lhbjJia3B4aDdqbmlyMmV4Nm8ydmIxaGExbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L13y0z1z1B7VnJbL4f/giphy.gif" width="100%" alt="Synthwave Driving Grid" />
   
-  <!-- Contribution chart underneath as the road -->
-  <img src="https://ghchart.rshah.org/22c55e/heyimsid?bg_color=0d1117" width="100%" alt="Contribution Grid Track" />
+  <br /><br />
+  
+  <!-- REAL CONTRIBUTION CHART DIRECTLY BELOW -->
+  <img src="https://ghchart.rshah.org/22c55e/heyimsid?bg_color=0d1117" width="100%" alt="Contribution Grid" />
 </div>
 <br />
 

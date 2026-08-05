@@ -33,11 +33,11 @@
   </tr>
 </table>
 
-<!-- MIDDLE CONTAINER: CAR RACING CONTRIBUTION GRID -->
+<!-- MIDDLE CONTAINER: SYNTHWAVE F40 RACER -->
 <br />
 <div align="center">
-  <p align="left"><code>> ./drive_contributions.sh --vehicle=r34_skyline --track=2026_activity</code></p>
-  <img src="https://raw.githubusercontent.com/heyimsid/heyimsid/output/github-car-grid-dark.svg" width="100%" alt="Car Contribution Racing Grid" />
+  <p align="left"><code>> ./drive_contributions.sh --vehicle=ferrari_f40 --mode=synthwave</code></p>
+  <img src="./assets/car.gif" width="100%" alt="Ferrari F40 Track" />
 </div>
 <br />
 

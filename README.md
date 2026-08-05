@@ -46,7 +46,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
   
 <!-- BLACK & GREEN CONTRIBUTION CHART -->
-  <img src="https://ghchart.rshah.org/22c55e/heyimsid?bg_color=000000" width="100%" alt="Contribution Grid" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=heyimsid&bg_color=000000&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 <br />
 
